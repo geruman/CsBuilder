@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsBuilder", "CsBuilder\CsBuilder.csproj", "{3BD979E6-8CFA-41D9-9079-B38A8BF53477}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BD3460E3-F8CC-4B1F-B219-5A85A3045CCD}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsBuilderTests", "CsBuilderTests\CsBuilderTests.csproj", "{0CAA229D-748F-4428-B0C4-A00659A41CF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BD979E6-8CFA-41D9-9079-B38A8BF53477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD979E6-8CFA-41D9-9079-B38A8BF53477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD979E6-8CFA-41D9-9079-B38A8BF53477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD979E6-8CFA-41D9-9079-B38A8BF53477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CAA229D-748F-4428-B0C4-A00659A41CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CAA229D-748F-4428-B0C4-A00659A41CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CAA229D-748F-4428-B0C4-A00659A41CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CAA229D-748F-4428-B0C4-A00659A41CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADC6718E-C6A9-464B-92AA-0B831BD6445B}
+	EndGlobalSection
+EndGlobal
